@@ -1222,6 +1222,13 @@
     --user-background: url('https://i.imgur.com/fGBtTtj.mp4');
 }
 
+/*37b7#4613*/
+
+[user_by_bdfdb*="349126767270821889"],
+[data-user-id*="349126767270821889"] {
+    --user-background: url('https://i.imgur.com/fIxnhdz.gif');
+}
+
 /*Ozaleto#2612*/
 
 [user_by_bdfdb*="498207315485392906"],
